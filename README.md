@@ -5,3 +5,4 @@ I love network programming and use the following languages/frameworks:
 - TypeScript
 - NodeJS
 - Angular
+- C++
